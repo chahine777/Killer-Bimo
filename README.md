@@ -8,11 +8,6 @@ I have **minimal experience** in engineering and cybersecurity, but I want to st
 
 ---
 
-# 🔥 Killer Bimo Logo
-
-You can place your logo here once created:
-
-![Killer Bimo Logo](docs/logo.png)
 
 ---
 
