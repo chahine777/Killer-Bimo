@@ -23,37 +23,6 @@ This repository will track everything I learn, every mistake, and every improvem
 
 ---
 
-# 📁 Repository Structure
-
-```
-KillerBimo/
-│
-├── firmware/
-│   ├── src/
-│   ├── include/
-│   └── README.md
-│
-├── hardware/
-│   ├── schematics/
-│   ├── pcb/
-│   └── README.md
-│
-├── docs/
-│   ├── concept-art/
-│   ├── banner.png        # Add your banner here
-│   ├── logo.png          # Add your logo here
-│   ├── features.md
-│   └── roadmap.md
-│
-├── software/
-│   ├── mobile-app/
-│   └── desktop-tool/
-│
-└── README.md
-```
-
----
-
 # 📝 README.md
 
 ## Killer Bimo — My First Engineering Project
